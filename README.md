@@ -19,11 +19,11 @@ Développer un contrat intelligent de vote conforme au cahier des charges :
 ---
 
 Les TESTS :
-1 : Ajout et récupération de votant.
-2 : Un non-votant ne peut pas accéder aux fonctions réservées.
-3 : Phase d’enregistrement des propositions.
-4 : Refuser les propositions vides.
-5 : Vote d’un votant.
-6 : Empêcher de voter deux fois.
-7 : Tallier les votes correctement.
-8 : Ne pas pouvoir voter hors période.
+- 1 : Ajout et récupération de votant.
+- 2 : Un non-votant ne peut pas accéder aux fonctions réservées.
+- 3 : Phase d’enregistrement des propositions.
+- 4 : Refuser les propositions vides.
+- 5 : Vote d’un votant.
+- 6 : Empêcher de voter deux fois.
+- 7 : Tallier les votes correctement.
+- 8 : Ne pas pouvoir voter hors période.
