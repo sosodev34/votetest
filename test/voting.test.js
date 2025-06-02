@@ -1,7 +1,5 @@
-// expectRevert : permet de tester que certaines fonctions échouent comme prévu (ex. si un non-votant essaie d'ajouter une proposition).
-// expectEvent : permet de vérifier qu’un événement spécifique a été émis par le contrat après une action.
 const { BN, expectRevert, expectEvent } = require("@openzeppelin/test-helpers");
-const { expect } = require("chai"); // expect : permet d’écrire des assertions plus lisibles avec Chai (ex. expect(val).to.be.equal(...))
+const { expect } = require("chai"); 
 
 
 const Voting = artifacts.require("Voting");
